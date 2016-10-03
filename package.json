@@ -1,0 +1,25 @@
+{
+  "name": "restqueue",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "PORT=4444 node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "keywords":[
+    "queue", 
+    "restful",
+    "distributed", 
+    "simple", 
+    "rest", 
+    "api"
+  ], 
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "flowee": "^1.0.32",
+    "flowee-doc": "^1.0.3"
+  }
+}
