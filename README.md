@@ -19,7 +19,7 @@ And then run
 
 > Voila: now each queue has api-endpoints. The documentation/playground can be viewed at 'http://localhost:4444/doc/#!/default'
 
-<img src="doc/restqueue.png" width="60%"/>
+<img src="https://github.com/coderofsalvation/restqueue/raw/master/doc/restqueue.png" width="60%"/>
 
 ## Rest calls 
 
