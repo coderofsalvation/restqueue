@@ -1,7 +1,7 @@
 {
   "name": "restqueue",
   "version": "1.0.1",
-  "description": "",
+  "description": "Simple REST interface to an queue/array, for distributed push/pop purposes",
   "main": "index.js",
   "scripts": {
     "start": "PORT=4444 node server.js",
